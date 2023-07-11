@@ -32,8 +32,8 @@ def kelimeleri_cozumle(kelimeler, kaydet=False):
     say =0
     yok=0
     if kaydet:
-        f1 = open("derlem/derlemtr001.txt","w")
-        f2 = open("hamveriler/denetimsiz001.txt","w")
+        f1 = open("derlem/derlemtr.txt","w")
+        f2 = open("hamveriler/denetimsiz.txt","w")
 
     for kelime in kelimeler:
         yanit = zemberek.kelimeCozumle(kelime)
