@@ -10,10 +10,10 @@ DerlemTR Projesinin Devamı
 - Sözcük denetlemede Zemberek çalışmasından yararlanacağız.
 
 ## 2023-07-11 : zemberek_denetle.py betiği çalıştırıldı. hamveriler/tumkelimeler001.txt dosyasından 2 dosya elde edildi:
-   1- derlem/derlemtr.txt  (zemberek denetiminden geçmiş sözcükler - 1,686,804 adet)
-   2- hamveriler/denetimsiz.txt (zemberek denetimine takılmış sözcükler - 1,849125 adet)
+- derlem/derlemtr.txt  (zemberek denetiminden geçmiş sözcükler - 1,686,804 adet)
+- hamveriler/denetimsiz.txt (zemberek denetimine takılmış sözcükler - 1,849125 adet)
    
-   denetimsiz.txt dosyasının içerdiği sözcükler manuel olarak veya kalbur gibi araçlarla denetlenmeye devam edecek.
+- denetimsiz.txt dosyasının içerdiği sözcükler manuel olarak veya kalbur gibi araçlarla denetlenmeye devam edecek.
    Bu dosyadan kesin hatalı ve kesin geçerli sözcükler silinecek ve uzun vadede tamamen sıfırlanacaktır.
    Kesin geçerli sözcükler derlem/derlemtr.txt dosyasına eklenecektir.
 
